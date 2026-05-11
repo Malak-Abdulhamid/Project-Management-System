@@ -1,0 +1,1 @@
+PROJ_1778481335282_99|ManageX System|An integrated project & employee management system that supports attendance, task assignment, monitor work progress, & improve productivity through role-based modules & reporting tools|ACTIVE|2026-05-11|2026-05-26|USR_1778094398719_561
