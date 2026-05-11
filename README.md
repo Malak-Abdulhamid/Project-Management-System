@@ -65,5 +65,5 @@ Administrators can:
 - Mohammed Wael Essam Noah
 - Mohannad Ahmed AbdulMohsen
 - Rahma Soliman Mohammed
-- Basmala Ahme Mahmoud
+- Basmala Ahmed Mahmoud
 - Amr Tarek Salah
